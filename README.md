@@ -6,9 +6,14 @@ Cet exercice vise à s'initier au PHP ainsi qu'aux principes clés des super-glo
 Pour commencer, installez un serveur PHP sur votre machine pour executer du PHP. Pour windows, vous pouvez installer WAMP, LAMP pour linux et MAMP pour macOS. Ces petits logiciels installent toute la suite serveur PHP+MySQL sur votre machine, pour en faire donc un serveur web complet!
 
 Une fois installée, crée un "exercice.php" qui contiendra le code notre exercice.
+
 Étape 1: GET
 
 Super, maintenant que tout est en place, nous allons nous amuser avec la variable $_GET. Appelez votre page avec le paramètre first_name dans l'url. localhost/{...}/exercice.php?first_name=Ada Sur votre page HTML, affichez "Bonjour" suivi du nom indiqué en paramètre (ici, "Bonjour Ada" donc). Si aucun nom n'est fourni, affichez "Bonjour anonyme"
+
+
+
+
 Étape 2: POST
 
 Modifiez la page pour y ajouter un formulaire et un champ de saisie comme suit:
