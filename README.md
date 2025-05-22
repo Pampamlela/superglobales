@@ -41,5 +41,3 @@ Nous avons donc deux manières de donner un nom à afficher. Nous allons ajouter
 Étape 4: Reset de la session
 
 Ajouter un bout “Reset” pour réinitialiser la session et la valeur qu’elle contient.
-
-Tu as aimé faire cet exercice ou tu as des retours à nous faire ? Clique ici !
